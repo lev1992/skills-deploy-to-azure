@@ -6,9 +6,9 @@ on:
 
 env:
   IMAGE_REGISTRY_URL: ghcr.io
-  AZURE_RESOURCE_GROUP: cd-with-actions-lev1992
+  AZURE_RESOURCE_GROUP: cd-with-actions-res
   AZURE_APP_PLAN: actions-ttt-deployment
-  AZURE_LOCATION: eastus2
+  AZURE_LOCATION: centralus
   ###############################################
   ### Replace <username> with GitHub username ###
   ###############################################
