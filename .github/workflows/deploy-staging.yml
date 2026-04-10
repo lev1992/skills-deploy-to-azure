@@ -9,8 +9,8 @@ env:
   ###############################################
   ### Replace <username> with GitHub username ###
   ###############################################
-  DOCKER_IMAGE_NAME: <lev1992>-azure-ttt
-  AZURE_WEBAPP_NAME: <lev1992>-ttt-app
+  DOCKER_IMAGE_NAME: lev1992-azure-ttt
+  AZURE_WEBAPP_NAME: lev1992-ttt-app
   ###############################################
 
 jobs:
